@@ -1,0 +1,33 @@
+.man{
+    width: 50px;
+    height: 100px;
+    
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+}
+
+.man img{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px; 
+    height: 80px;
+}
+
+.main{
+    width: 600px; 
+    height: 300px;
+    border: 2px solid black;
+    position: relative;
+    overflow: hidden;
+}
+
+.rock{
+    position: absolute;
+    bottom: 0px;
+    
+    background-color: black;
+    width: 50px;
+    height: 50px;
+}
